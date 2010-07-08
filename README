@@ -1,0 +1,10 @@
+This is a very simple pong-like game for any device with the Bluez Bluetooth libraries and Python. It is intended as a time killer on Maemo/MeeGo devices.
+
+To play the game, make sure the devices are paired using your Bluetooth configuration.
+When paired, run
+
+python bluepong.py
+
+on two devices. On the first device select "Host Game". On the second device select "Join Game" and then select the device which is hosting the game.
+
+Enjoy!
